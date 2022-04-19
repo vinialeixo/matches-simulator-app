@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_simulate">Botao de simulacao de partida</string>
+    <string name="txt_home_team">Imagem to time mandante</string>
+    <string name="txt_away_team">Away team image.</string>
+</resources>
